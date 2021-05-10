@@ -17,6 +17,8 @@ defusedxml==0.7.1
 deprecation==2.1.0
 entrypoints==0.3
 Flask==1.1.2
+Flask-SQLAlchemy==2.5.1
+greenlet==1.1.0
 gunicorn==20.1.0
 idna==2.10
 iniconfig==1.1.1
@@ -67,6 +69,7 @@ rich==6.1.1
 Send2Trash==1.5.0
 six==1.16.0
 sniffio==1.2.0
+SQLAlchemy==1.4.14
 terminado==0.9.4
 testpath==0.4.4
 toml==0.10.2
